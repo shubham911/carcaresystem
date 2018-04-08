@@ -15,6 +15,7 @@
     <body background="profilepics/blue.jpg" style="background-repeat: no-repeat;background-size:100%">
         
         
+       <p>test</p>
         <form method="POST" action="logindir.jsp">
             <div style="line-height: 30px;font-size: 22px;border: 1px transparent solid;width: 100%;height: 640px;color: burlywood">
                 <center style="margin-top: 220px">
